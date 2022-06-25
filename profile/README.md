@@ -9,4 +9,4 @@ What we do
 * actively participate in the development of open source geospatial technology and infrastructure
 * contribute to the Big Ten Academic Alliance by sharing expertise, leveraging campus resources, and collaborating on innovative programs
 
-Visit our Geoportal at [geo.btaa.org](https://geo.btaa.org) and learn more about our Network at [btaagdp.org](https://btaagdp.org) .
+Visit our Geoportal at [geo.btaa.org](https://geo.btaa.org) and learn more about our Network at [z.umn/edu/btaagdp](https://z.umn/edu/btaagdp) .
