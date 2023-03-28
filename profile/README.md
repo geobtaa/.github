@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-The Big Ten Academic Alliance Geospatial Information Network is collectively managed by librarians and geospatial specialists at thirteen research institutions from across the Big Ten Academic Alliance.
+The Big Ten Academic Alliance Geospatial Information Network is collectively managed by librarians and geospatial specialists at fourteen research institutions from across the Big Ten Academic Alliance.
 
 What we do
 * connect scholars across the Big Ten Academic Alliance to geospatial resources
