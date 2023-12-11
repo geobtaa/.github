@@ -2,7 +2,7 @@
 
 The Big Ten Academic Alliance Geospatial Information Network is collectively managed by librarians and geospatial specialists at fourteen research institutions from across the Big Ten Academic Alliance. We support the geospatial research community by making resources easier to find and to foster connections among geospatial library professionals through our collaboration.
 
-Visit our Geoportal at [geo.btaa.org](https://geo.btaa.org) and learn more about our Network at [z.umn.edu/btaagdp](https://z.umn.edu/btaagdp) .
+Visit our Geoportal at [geo.btaa.org](https://geo.btaa.org) and learn more about our Network at [gin.btaa.org](https://gin.btaa.org) .
 
 -------------
 
