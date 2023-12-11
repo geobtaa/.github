@@ -8,7 +8,7 @@ Visit our Geoportal at [geo.btaa.org](https://geo.btaa.org) and learn more about
 
 ## Follow our work on our Project Boards:
 
-### 📊 [Program Roadmap July 2023- July 2024](https://github.com/orgs/geobtaa/projects/10)
+### 📊 [Program Roadmap July 2023- June 2024](https://github.com/orgs/geobtaa/projects/10)
 
 This board tracks  milestones related to our migration from a Project to a Program. Milestones include an overhaul of our governance structure, an upgraded website, a strategic plan for scope expansion, and community outreach/support.
 
@@ -20,7 +20,7 @@ Team Members from each participating institution have developed these goals in c
 
 This board tracks the technical milestones planned for our spatial data infrastructure
 
-### 📑 [Collections](https://github.com/orgs/geobtaa/projects/4)
+### 📑 [Collections (Ongoing) ](https://github.com/orgs/geobtaa/projects/4)
 
 This board tracks activities and decisions related to the collections in the BTAA Geoportal.
 
