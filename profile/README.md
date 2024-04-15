@@ -16,9 +16,9 @@ This board tracks  milestones related to our migration from a Project to a Progr
 
 Team Members from each participating institution have developed these goals in consultation with their local colleagues. The goals range from submitting collections to the BTAA Geoportal, to enhancing locla workflows and technologies, to documentation & outreach.
 
-### 🛠️ [Technology Roadmap 2024](https://github.com/orgs/geobtaa/projects/17)
+### 🛠️ [Development Roadmap 2024](https://github.com/orgs/geobtaa/projects/18)
 
-This board tracks the technical milestones planned for our spatial data infrastructure
+This board tracks the technical milestones planned for our spatial data infrastructure, including issues for our Geoportal and GeoBlacklight Admin toolkit.
 
 ### 📑 [Collections (Ongoing) ](https://github.com/orgs/geobtaa/projects/4)
 
