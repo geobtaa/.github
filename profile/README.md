@@ -6,25 +6,38 @@ Visit our Geoportal at [geo.btaa.org](https://geo.btaa.org) and learn more about
 
 -------------
 
-## Follow our work on our Project Boards:
+## Active Project Boards:
 
-### 📊 [Program Roadmap July 2023- June 2024](https://github.com/orgs/geobtaa/projects/10)
+### 🪜 [Priority Projects {2024-2025}](https://github.com/orgs/geobtaa/projects/22)
 
-This board tracks  milestones related to our migration from a Project to a Program. Milestones include an overhaul of our governance structure, an upgraded website, a strategic plan for scope expansion, and community outreach/support.
+Program Team projects for the 2024-2025 time period, owned by committees, workgroups, or individuals.
 
-### 🏛️ [Institutional Goals 2023-2024](https://github.com/orgs/geobtaa/projects/16/views/1)
+### 🏛️ [Institutional Goals {2023-2024}](https://github.com/orgs/geobtaa/projects/16/views/1)
 
-Team Members from each participating institution have developed these goals in consultation with their local colleagues. The goals range from submitting collections to the BTAA Geoportal, to enhancing locla workflows and technologies, to documentation & outreach.
+Team Members from each participating institution have developed these goals in consultation with their local colleagues. The goals range from submitting collections to the BTAA Geoportal, to enhancing local workflows and technologies, to documentation & outreach.
 
-### 🛠️ [Development Roadmap 2024](https://github.com/orgs/geobtaa/projects/18)
+### 🗺️ [Geodata Collection Pilot {2024}](https://github.com/orgs/geobtaa/projects/17)
 
-This board tracks the technical milestones planned for our spatial data infrastructure, including issues for our Geoportal and GeoBlacklight Admin toolkit.
+Activites related to establishing a Geodata Collection for the BTAA, including technical requirements, metadata considerations, and workflows.
 
-### 📑 [Collections (Ongoing) ](https://github.com/orgs/geobtaa/projects/4)
+## Dashboards for Ongoing Work:
 
-This board tracks activities and decisions related to the collections in the BTAA Geoportal.
+### 🛠️ [Development](https://github.com/orgs/geobtaa/projects/18)
 
+Issues and milestones for our spatial data infrastructure, including our Geoportal and GeoBlacklight Admin toolkit.
 
+### 📑 [Collections](https://github.com/orgs/geobtaa/projects/4)
 
+Activities and decisions related to the collections in the BTAA Geoportal.
+
+## Sunsetted Boards:
+
+### 📊 [Revamping the BTAA GIN: a Program Roadmap {2023-2024}](https://github.com/orgs/geobtaa/projects/10)
+
+Milestones related to our migration from a Project to a Program. Milestones include an overhaul of our governance structure, an upgraded website, a strategic plan for scope expansion, and community outreach/support.
+
+### ⌹ [OpenIndexMaps {2024}](https://github.com/orgs/geobtaa/projects/19)
+
+Research project about creating OpenIndexMaps for non-grid historical atlasses.
 
 
