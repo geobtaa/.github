@@ -32,11 +32,11 @@ Activities and decisions related to the collections in the BTAA Geoportal.
 
 ## Sunsetted Boards:
 
-### 📊 [Revamping the BTAA GIN: a Program Roadmap {2023-2024}](https://github.com/orgs/geobtaa/projects/10)
+### ~~📊 [Revamping the BTAA GIN: a Program Roadmap {2023-2024}](https://github.com/orgs/geobtaa/projects/10)~~
 
 Milestones related to our migration from a Project to a Program. Milestones include an overhaul of our governance structure, an upgraded website, a strategic plan for scope expansion, and community outreach/support.
 
-### ⌹ [OpenIndexMaps {2024}](https://github.com/orgs/geobtaa/projects/19)
+### ~~⌹ [OpenIndexMaps {2024}](https://github.com/orgs/geobtaa/projects/19)~~
 
 Research project about creating OpenIndexMaps for non-grid historical atlasses.
 
