@@ -18,7 +18,7 @@ Team Members from each participating institution have developed these goals in c
 
 ### 🗺️ [Geodata Asset Management {2024-2025} ](https://github.com/orgs/geobtaa/projects/17)
 
-Development tasks related to establishing a Geodata Collection for the BTAA, including new metadata fiels, ingest workflows, and download packages.
+Development tasks related to establishing a Geodata Collection for the BTAA, including new metadata fields, ingest workflows, and download packages.
 
 ## Dashboards for Ongoing Work:
 
