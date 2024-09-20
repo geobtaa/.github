@@ -16,9 +16,9 @@ Program Team projects for the 2024-2025 time period, owned by committees, workgr
 
 Team Members from each participating institution have developed these goals in consultation with their local colleagues. The goals range from submitting collections to the BTAA Geoportal, to enhancing local workflows and technologies, to documentation & outreach.
 
-### 🗺️ [Geodata Collection Pilot {2024}](https://github.com/orgs/geobtaa/projects/17)
+### 🗺️ [Geodata Asset Management {2024-2025} ](https://github.com/orgs/geobtaa/projects/17)
 
-Activites related to establishing a Geodata Collection for the BTAA, including technical requirements, metadata considerations, and workflows.
+Development tasks related to establishing a Geodata Collection for the BTAA, including new metadata fiels, ingest workflows, and download packages.
 
 ## Dashboards for Ongoing Work:
 
