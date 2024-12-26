@@ -22,7 +22,7 @@ Development tasks related to establishing a Geodata Collection for the BTAA, inc
 
 ## Dashboards for Ongoing Work:
 
-### 🛠️ [Development](https://github.com/orgs/geobtaa/projects/18)
+### 🛠️ [Development](https://github.com/orgs/geobtaa/projects/24)
 
 Issues and milestones for our spatial data infrastructure, including our Geoportal and GeoBlacklight Admin toolkit.
 
