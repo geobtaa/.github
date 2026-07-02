@@ -8,21 +8,7 @@ Visit our Geoportal at [geo.btaa.org](https://geo.btaa.org) and learn more about
 
 ## Active Project Boards:
 
-### 🪜 [Priority Projects {2024-2025}](https://github.com/orgs/geobtaa/projects/22)
-
-Program Team projects for the 2024-2025 time period, owned by committees, workgroups, or individuals.
-
-### 🏛️ [Institutional Goals {2023-2024}](https://github.com/orgs/geobtaa/projects/16/views/1)
-
-Team Members from each participating institution have developed these goals in consultation with their local colleagues. The goals range from submitting collections to the BTAA Geoportal, to enhancing local workflows and technologies, to documentation & outreach.
-
-### 🗺️ [Geodata Asset Management {2024-2025} ](https://github.com/orgs/geobtaa/projects/17)
-
-Development tasks related to establishing a Geodata Collection for the BTAA, including new metadata fields, ingest workflows, and download packages.
-
-## Dashboards for Ongoing Work:
-
-### 🛠️ [Development](https://github.com/orgs/geobtaa/projects/24)
+### 🛠️ [Development](https://github.com/orgs/geobtaa/projects/29)
 
 Issues and milestones for our spatial data infrastructure, including our Geoportal and GeoBlacklight Admin toolkit.
 
@@ -30,14 +16,6 @@ Issues and milestones for our spatial data infrastructure, including our Geoport
 
 Activities and decisions related to the collections in the BTAA Geoportal.
 
-## Sunsetted Boards:
-
-### ~~📊 [Revamping the BTAA GIN: a Program Roadmap {2023-2024}](https://github.com/orgs/geobtaa/projects/10)~~
-
-Milestones related to our migration from a Project to a Program. Milestones include an overhaul of our governance structure, an upgraded website, a strategic plan for scope expansion, and community outreach/support.
-
-### ~~⌹ [OpenIndexMaps {2024}](https://github.com/orgs/geobtaa/projects/19)~~
-
-Research project about creating OpenIndexMaps for non-grid historical atlasses.
+Team Members from each participating institution have developed these goals in consultation with their local colleagues. The goals range from submitting collections to the BTAA Geoportal, to enhancing local workflows and technologies, to documentation & outreach.
 
 
